@@ -6,6 +6,6 @@ Painting interface built using P5.js; hyperspectral colors selected via consulti
 
 https://www.behance.net/gallery/109144437/Hyperspectral-Painting
 
-![System overview](https://imgur.com/a/zVztl2j)
+![System overview](https://i.imgur.com/BSYnweL.png)
 
-![Display process diagram](https://imgur.com/a/WOVNrd4)
+![Display process diagram](https://i.imgur.com/QBGLO1O.png)
